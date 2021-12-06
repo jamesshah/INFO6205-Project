@@ -5,9 +5,9 @@ package edu.neu.info6205;
  * sorting. Changes made to the number of Radixes(R), and storing of characters in the count array,
  * made significant changes in the execution time of the algorithm.
  */
-public class MSDRadixSort {
-    private static int R = 119;        // radix for "Devanagari" characters
-    private static final int CUTOFF = 2048; // cutoff for small arrays
+public class MSDRadixSortOriginal {
+    private static int R = 65536;        // radix for "Devanagari" characters
+    private static final int CUTOFF = 15; // cutoff for small arrays
     private static String[] aux;       // auxiliary array for distribution
 
     /**
@@ -36,7 +36,7 @@ public class MSDRadixSort {
     }
 
     /**
-     * Private sorting method that is being called from the public sorting method.
+     *
      * @param a Array of Strings to be sorted.
      * @param lo Left most position in the array 'a'.
      * @param hi Right most position in the array 'a'.
@@ -54,23 +54,18 @@ public class MSDRadixSort {
         int[] count = new int[R+2];        // Compute frequency counts.
         for (int i = lo; i <= hi; i++){
             int index = charAt(a[i], d);
-//            System.out.println(index);
-            if(index >= 2304 && index <= 2423 ){
-                count[(index - 2304) + 2]++;
-            }
-//            System.out.println(index);
+            count[index + 2]++;
         }
 
         for (int r = 0; r < R+1; r++)      // Transform counts to indices.
             count[r+1] += count[r];
         for (int i = lo; i <= hi; i++) {     // Distribute.
             int index = charAt(a[i], d);
-            if(index >= 2304 && index <= 2423 ) {
-                aux[count[(index - 2304) + 1]++] = a[i];
-            }
+            aux[count[index + 1]++] = a[i];
         }
         for (int i = lo; i <= hi; i++)     // Copy back.
             a[i] = aux[i - lo];
+
         // Recursively sort for each character value.
         for (int r = 0; r < R; r++)
             sort(a, lo + count[r], lo + count[r+1] - 1, d+1);

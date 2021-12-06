@@ -240,3 +240,86 @@
 2021-12-05 14:21:03 INFO  Benchmark_Timer - Begin run: Tim sort with 10 runs
 2021-12-05 14:22:28 INFO  Benchmark_Timer - Begin run: LSD Radix sort with 10 runs
 2021-12-05 14:25:14 INFO  Benchmark_Timer - Begin run: Husky sort with 10 runs
+2021-12-05 16:58:34 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:03:35 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:03:37 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:03:39 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:03:44 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:03:55 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:04:23 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:05:27 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:07:38 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:17:06 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:26:26 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:36:20 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:41:54 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:41:55 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:41:57 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:41:59 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:42:07 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:42:25 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:43:05 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:44:25 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:50:02 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 17:55:40 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 18:01:24 INFO  Benchmark_Timer - Begin run: MSD Original Radix sort with 10 runs
+2021-12-05 18:12:18 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:12:18 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:12:19 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:12:19 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:12:19 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:12:20 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:12:20 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:12:22 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:12:28 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:12:36 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:12:53 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:13:21 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:22:31 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:22:31 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:22:31 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:22:32 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:22:32 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:22:33 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:22:34 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:22:36 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:22:41 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:22:49 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:23:05 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:23:34 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:06 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:06 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:07 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:07 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:07 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:08 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:10 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:13 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:19 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:31 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:26:53 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:27:31 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:31:17 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:31:18 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:31:18 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:31:19 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:31:19 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:31:20 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:31:22 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:31:26 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:31:35 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:31:53 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:32:27 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:33:27 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:38:53 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:38:53 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:38:54 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:38:54 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:38:55 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:38:57 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:39:00 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:39:07 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:39:21 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:39:48 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:40:44 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs
+2021-12-05 18:42:34 INFO  Benchmark_Timer - Begin run: MSD Radix sort with 10 runs

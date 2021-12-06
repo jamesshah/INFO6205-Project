@@ -8,7 +8,9 @@ import edu.neu.info6205.util.ReadFile;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
+import java.util.Arrays;
 import java.util.function.Supplier;
+import java.util.function.UnaryOperator;
 
 /**
  * Class that runs benchmarks for all the algorithms.
@@ -105,6 +107,17 @@ public class BenchmarkDriver {
                 );
 
                 System.out.println((huskyBenchmark.runFromSupplier(supplier, runs)) + "ms");
+                break;
+
+            case "MSDO":
+                final Benchmark<String[]> msdoBenchmark = new Benchmark_Timer<String[]>(
+                        "MSD Original Radix sort",
+                        null,
+                        MSDRadixSortOriginal::sort,
+                        null
+                );
+
+                System.out.println((msdoBenchmark.runFromSupplier(supplier, runs)) + "ms");
                 break;
         }
     }
